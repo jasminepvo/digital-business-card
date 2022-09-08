@@ -83,6 +83,7 @@ button:focus-visible {
 	width: 320px;
 	height: 320px;
 	border-radius: 10px 10px 0px 0px;
+	border-color: #1a1b21;
 }
 .main {
 	height: 400px;
