@@ -82,7 +82,6 @@ button:focus-visible {
 .headshot {
 	width: 320px;
 	height: 320px;
-	background: url();
 	border-radius: 10px 10px 0px 0px;
 }
 .main {
