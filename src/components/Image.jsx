@@ -1,9 +1,10 @@
 import React from "react";
+import Headshot from "../assets/professionalHeadshot.jpg"
 
 export default function Image() {
 	return (
 		<div>
-			<img src="./src/assets/professionalHeadshot.jpg" className="headshot"/>
+			<img src={Headshot} className="headshot"/>
 		</div>
 	);
 }
