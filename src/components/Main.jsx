@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Main() {
 	return (
-		<div>
+		<div className="main">
 			<h1>Krista Chanarittichai</h1>
 			<h3>Data Engineer</h3>
-			<span>kristach.netlify.app</span>
+			<p>kristach.netlify.app</p>
 			<button>Email</button>
 			<section>
 				<h2>About</h2>
