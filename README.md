@@ -2,24 +2,23 @@
 
 Thiis is a digital business card created for Krista Chanaritthicthai
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://krista.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![Screen Shot 2022-09-21 at 1 17 27 PM](https://user-images.githubusercontent.com/99847030/191569601-4a59564e-1261-43c5-a4ca-32c9a6cdae01.jpg)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, React, Vite
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+This app was created using Vite + React. I used 3 React components for the image, main content and footer. I decided to separate it in this way to make sure each component was reusable. I specifically chose to put the image in its own component so that it can easily be imported and swapped out without interferring with any other parts. 
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+I would love to add a feature where multiple users can login and customize the components themselves while using this template. Extra feature would be various multiple template styles. Extra feature would be dark/light mode switch. 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+This was my first project I built in React which was super fun! I learned how to structure my files/folders to comply with React and the initial configuration with Vite was extremely easy and fast. I heavily enjoyed both React + Vite and plan to use it for all my projects moving forward. 
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
@@ -29,5 +28,3 @@ Take a look at these couple examples that I have in my own portfolio:
 **Etch A Sketch:** https://github.com/jasminepvo/etch-a-sketch
 
 **Rock Paper Scissors:** https://github.com/jasminepvo/rock-paper-scissors
-
-
